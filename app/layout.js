@@ -5,9 +5,9 @@ import ScrollToTop from "./components/scrolltotop";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Ecommerce",
+  title: "Techobin",
   description:
-    "Buy Blend Bay is an ecommerce platform. Which is services multiple category products.",
+    "Techobin is an software service platform. Which is services multiple digital products.",
 };
 
 export default function RootLayout({ children }) {
